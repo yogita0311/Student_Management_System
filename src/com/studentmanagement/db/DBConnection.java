@@ -12,7 +12,7 @@ public class DBConnection {
 		 try{
 	            Class.forName("com.mysql.cj.jdbc.Driver");
 	            String user = "root";
-	            String pass = "Root@123";
+	            String pass = "your_password";
 	            String url = "jdbc:mysql://localhost:3306/student?autoReconnect=true&useSSL=false";
 
 	            con = DriverManager.getConnection(url,user,pass);
