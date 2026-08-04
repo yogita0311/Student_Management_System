@@ -1,1 +1,1 @@
-# Student_Management_System
+Student Management System built using Core Java & MySQL 
